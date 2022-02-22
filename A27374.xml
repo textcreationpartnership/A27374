@@ -1,0 +1,501 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The potable balsome of life being a collection of the choicest preservatives that are extant within the three natural families of minerals, vegetables and animals, reduced into such essences and tinctures by the scientifick art of chymie ... by which the bodies which are in health may be preserved ... / published by P. Bellon ...</title>
+            <author>Belon, P. (Peter)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27374</idno>
+            <idno type="STC">Wing P3026B</idno>
+            <idno type="STC">Wing B1856</idno>
+            <idno type="STC">ESTC R4899</idno>
+            <idno type="EEBO-CITATION">12317902</idno>
+            <idno type="OCLC">ocm 12317902</idno>
+            <idno type="VID">59410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59410)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 203:13 or 2194:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The potable balsome of life being a collection of the choicest preservatives that are extant within the three natural families of minerals, vegetables and animals, reduced into such essences and tinctures by the scientifick art of chymie ... by which the bodies which are in health may be preserved ... / published by P. Bellon ...</title>
+                  <author>Belon, P. (Peter)</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [2].</note>
+                  <note>Wing number B1856 cancelled in Wing (CD-ROM, 1996).</note>
+                  <note>Reproduction of originals in Bodleian Library and Guildhall (London, England).</note>
+                  <note>Imperfect: p. 20 is illegible.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine, Popular --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59410:1"/>
+            <pb facs="tcp:59410:1" rendition="simple:additions"/>
+            <p>THE Potable Balſome OF LIFE.</p>
+            <p>Being a Collection of the choiceſt Preſervatives that are Extant within the three Natural Families of Minerals, Vegetables, and Animals, reduced into ſuch Eſſences and Tin<g ref="char:EOLhyphen"/>ctures by the Scientifick Art of Chymie, which conſtitute a Radical and Cordial Balſamick Liquor, agreeable and pleaſant to the Senſes, and to be taken in ſmall proportions.</p>
+            <p>By which the Bodies which are in Health may be preſerved, the growth of Diſtempers intercepted, and Diſeaſes already con<g ref="char:EOLhyphen"/>firmed, totally Erradicated.</p>
+            <p>Eſpecially ſuch as are moſt Predominant in Sea-bordering Nati<g ref="char:EOLhyphen"/>ons, more particularly in ours, of which diſeaſes you may have an account in the following pages.</p>
+            <p>Publiſhed by <hi>P. Bellon,</hi> Phyſiomathetes.</p>
+            <p>For the Publick Good, eſpecially for thoſe who are unhappily deprived from the great conveniency, and advantagious aſſi<g ref="char:EOLhyphen"/>ſtance of Learned Phyſitians, and that live remote from Me<g ref="char:EOLhyphen"/>dicaments, it being of ſuch a Nature as meliorates it ſelf with keeping, though it be kept a hundred Years.</p>
+            <p>All perſons are deſired to peruſe the Book throughly, for in each Page they may meet with ſomething which will ſatisfie their Curioſity. <hi>With Allowance.</hi>
+            </p>
+            <q>
+               <l>Natura <g ref="char:V">Ʋ</g>niverſalis cum paucis principiis operatur</l>
+               <l>Mirabilia, &amp; Chimico Ingenioſo pauca ſunt neceſsaria.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for the Author, 1675.</p>
+         </div>
+         <div type="note_to_the_reader">
+            <pb facs="tcp:59410:2"/>
+            <head>ADVERTISEMENTS.</head>
+            <p>WHere as the Body of this <hi>Balſum</hi> is capable of recei<g ref="char:EOLhyphen"/>ving all ſuch additions, as all Judicious and experi<g ref="char:EOLhyphen"/>mented Phiſitians may judge proper for the Cure or preven<g ref="char:EOLhyphen"/>tion of ſuch particular diſtempers, as any of the Subſcribers may be moſt liable unto. And it being alſo convenient that I ſhould have ſome account of the quantity of this <hi>Balſum,</hi> that will be vended ſo ſoon as it is finiſhed. (that I may take my meaſure accordingly) All perſons that are deſirous to have of this <hi>Balſum,</hi> are invited to inform me either by word of mouth, or Letters directed to me at my Laboratory o<g ref="char:EOLhyphen"/>ver againſt the <hi>Croſs-Keys</hi> in <hi>Bedford-street Covent-Garden.</hi> What Medicaments they deſire ſhould be added, whereby to render that proportion which they ſhall pleaſe to ſubſcribe unto, more proper for prevention of ſuch diſtempers; and it ſhall be faithfully and carefully performed, according to their deſires, in their, or any other Perſons preſence whom they ſhall appoint. Yet at no greater rate than that ſaid beſt ſort of <hi>Balſum</hi> (without additions) ſhall be ſold to ſuch as have not ſubſcribed, whereby the ſaid Subſcribers will have a great advantage, both by thoſe additions, and the certainty of ha<g ref="char:EOLhyphen"/>ving of it rightly prepared, according to the Receit, it being to be done in publique, to which advantage none other can pretend after the <hi>Mixture</hi> is once made.</p>
+            <p>And whereas all Perſons are not willing or in a condition to go to the rate of 40 ſhillings a pound, for that <hi>Balſum</hi> which is prepared with the true Tinctures of <hi>Gold, Antimony, Coral, Vipers, Vitriol,</hi> and <hi>Pearls</hi> (as is ſpecified in this Book) I have thought it convenient (for the general good) to prepare ſome of the <hi>Balſum,</hi> without the forementioned Tinctures, which though not ſo great a <hi>Cordial, Preſerver, Reſtorer,</hi> and <hi>Renewer</hi> of Nature as the other, yet will prove as effectual for the Preſervation, and Cure of thoſe Diſeaſes mentioned in this Book, as likewiſe for all outward Applications. To be had at ſixteen ſhillings the pound. To which may be made additions, alſo paying the overplus for them, at very reaſo<g ref="char:EOLhyphen"/>nable rates. And to avoid all manner of fraud and deceit, both the <hi>Balſums</hi> ſhall be delivered ready put up in bottles and ſea<g ref="char:EOLhyphen"/>led with my own Seal, the ſame as here prefixed, of which there ſhall be one delivered to each Subſcriber for Surety.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59410:2" rendition="simple:additions"/>
+            <head>Digniſſimo Viro D. D. <hi>GEORGIO ENT,</hi> Equiti Aurato, Collegii <hi>Londinenſis</hi> Praeſidi, nec non Cenſoribus &amp; Sociis ejuſdem nobi<g ref="char:EOLhyphen"/>liſſimi Collegii. Viri Excellentiſſimi, &amp; Literarum ſplendore conſpicui.</head>
+            <p>POſt varias peregrinationes per diverſos Orbis Chri<g ref="char:EOLhyphen"/>ſtiani tractus, &amp; poſt multos in Theoriâ &amp; Praxi Chymicâ exantlatos labores; tandem in hoc floren<g ref="char:EOLhyphen"/>tiſſimae Urbis beato ſinu ſeneſcere, &amp; ſedem ponere conſtitui. Sub D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o. <hi>Laz. Riverio</hi> &amp; <hi>Theod. Mayerno</hi> Immortalitate digniſſimis Viris, Tyrocinium Chymicum ex<g ref="char:EOLhyphen"/>ercui, quorum Autographa apud me extant; &amp; ſi quemlibet Collegij curioſitas videndi, &amp; perlegendi tangat, depromp<g ref="char:EOLhyphen"/>turus. Offero vobis (Viri ampliſſimi &amp; doctiſſimi) ſelecta quaedam Medicamenta, guſtu jucunda, viſu amabilia, &amp; in deſperatis morbis profligandis efficacia. Vos eſtis mihi Ju<g ref="char:EOLhyphen"/>dices, coram veſtro Tribunali me ſiſto; &amp; veſtra praeſentia in meo Chymico piſtrino erit mihi honori &amp; praeſidio; for<g ref="char:EOLhyphen"/>tè vobiſmetipſis non minori voluptati, ſi mihi quilibet Col<g ref="char:EOLhyphen"/>legij <hi>Londinenſis</hi> Socius adeſſe voluerit. In hoc conſultiùs &amp; prudentiùs me feciſſe exiſtim<g ref="char:cmbAbbrStroke">̄</g>o, quòd me veſtrae candidae cen<g ref="char:EOLhyphen"/>ſurae objicerem, quàm ut Agyrtas imitarer, qui Schedulis poſtibus affixis, inanem Vulgi gloriam, tantùm denſitate hu<g ref="char:EOLhyphen"/>merorum notabil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, ridiculè aucupantur. Subſcribo me</p>
+            <closer>
+               <dateline>Dabam ex Aedibus meis in <hi>Plateâ Bedfordienfi,</hi> oppo<g ref="char:EOLhyphen"/>ſitis Tabernae Vinariae, cui ſignum Clavium tranſverſatum penſile.</dateline>
+               <signed>Veſtrae graviſſimae Societatis Cultorem obſequentiſſimum <hi>Petrum Bellonium Lond.</hi> Natum.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:59410:3"/>
+            <div type="preface">
+               <head>THE PREFACE.</head>
+               <p>HAving found by a no leſs ſuccesful then long experience, that this Specifick which I treat of, is not only proper, but effectually powerful for the Cure of divers Diſeaſes, eſpecially of thoſe which uſually afflict Maritime Countries, among the reſt, more particularly thoſe of this Kingdom, wherein the Scurvy, Dropſy, Apoplec<g ref="char:EOLhyphen"/>tick Palſie, Aſthma, Tabes, and the Venereal Diſeaſes do ſo much reign of late years, dayly getting ground by their impetuous Ragings, eſpecially among the Vulgar; who not regarding Rules and Methods, though never ſo much grounded upon Reaſon and Experience, are ſtill for the ſhorteſt, eaſieſt and cheapeſt ways of Cure.</p>
+               <p>I thought my ſelf obliged (through a due ſence of this ſpreading Cala<g ref="char:EOLhyphen"/>mity) to render this pleaſant and powerful Remedy more generally known, and in a ſhor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er time, by this kind of Publication, than my ſmall acquaintance would do in many years.</p>
+               <p>The <hi>Ingredients</hi> that enter into this excellent <hi>Compoſition</hi> are ſelected from among thoſe, that the three Families of <hi>Minerals, Vegetables,</hi> and <hi>A<g ref="char:EOLhyphen"/>nimals</hi> have in them; which are moſt proper, not only for the cure of the foer<g ref="char:EOLhyphen"/>mentioned <hi>Diſeaſes,</hi> but alſo for Preſervation, Prolongation, &amp; Renovation.</p>
+               <p>And leſt this excellent Remedy ſhould lye under the ſcandal of being ſome <hi>upſtart Thing,</hi> invented meerly for Lucre; and my <hi>ſelf</hi> a <hi>Perſon</hi> that would impoſe upon the Vulgar (as too many do) not regarding how little effectual their Medicines prove, ſo they do but thereby fill their Pockets with the Gains: I have not only (as to the practical part) declared what the Ingredients are that conſtitute this excellent Compound, and publiſhed their exquiſite Preparations; but alſo given valid reaſons for their choice, in a Theorical Diſcourſe of their <hi>Qualities, Properties</hi> &amp; <hi>Vertues,</hi> which ex<g ref="char:EOLhyphen"/>tend to <hi>Preſervation</hi> and <hi>Renovation.</hi> And all this done without the leaſt de<g ref="char:EOLhyphen"/>ſign of entrenching upon the Prerogative of the moſt Learned and Eminent College of Phiſitians; whom (with all ſubmiſſion to their Cenſure) I humbly intreat, as well as all other Ingenious Artiſts, and Lovers of this Scientifick Art, to favour me with their Opinion and Approbation of this Remedy, and honour me with their company at my Laboratory during the time of the <hi>Operations.</hi> To which purpoſe I ſhall give a timely and publique notice of the opening of the ſaid Laboratory. Not doubting but through
+<pb n="2" facs="tcp:59410:3"/> this fair way of dealing, I may remove from this Medicine, all ſuch preju<g ref="char:EOLhyphen"/>dices, and jealouſies, as things in this manner of Publication do commonly create; preſerve it from all foul aſperſions, raiſe it above thoſe little <hi>Spu<g ref="char:EOLhyphen"/>rious Brats</hi> of <hi>Phiſick,</hi> with which this famous Nation is but ſo much peſt<g ref="char:EOLhyphen"/>er'd; and place it beyond the reach of Malice and Envy.</p>
+               <p>I ſhall leave it's own Vertues, and thoſe Gentlemen that ſhall be Eye<g ref="char:EOLhyphen"/>witneſſes of it's exquiſite Preparations and Operations, to ſpeak it's <hi>Enco<g ref="char:EOLhyphen"/>mium;</hi> and ſhall only ſay, that though it ſets not forth ſo large a Catalogue of Ingredients as the <hi>Theriaca Andromachi,</hi> Sr. <hi>Walter Rawleigh's</hi> great <hi>Cordi<g ref="char:EOLhyphen"/>al</hi> or ſuch like <hi>long</hi> but <hi>moſt excellent Compoſitions:</hi> Yet in that <hi>Few</hi> is ſuffici<g ref="char:EOLhyphen"/>ently comprehended, what is requiſite to effect thoſe ſeveral operations, which I mention in this ſmall Treatiſe, not omitting Preſervation and Re<g ref="char:EOLhyphen"/>novation.</p>
+               <p>It is this excellent Specifick, which I humbly preſent to the publique, for the general good of this Kingdom, thinking all my ſtudies and I abours well rewarded if I prove in this effectually ſerviceable to my Country, and ſo eſteemed by the Learned Virtuoſi; to whom I wiſh all health and in<g ref="char:EOLhyphen"/>creaſe of Knowledg.</p>
+            </div>
+            <div type="part">
+               <head>Of the Preparations of each particular Ingredient and firſt of the Diſſolvant</head>
+               <p>BY reaſon that theſe Preparations are to be made through the medi<g ref="char:EOLhyphen"/>um of Diſſolvants, which are the material Inſtruments of ſuch Chy<g ref="char:EOLhyphen"/>mical Preparations, I thought it neceſſary in the firſt place, to give an accompt of that <hi>Menſtruum,</hi> which I have made choice of for this work.</p>
+               <p>It is obſcurely ſet down by <hi>Ramundus Lullius</hi> in his Works, but becauſe it is not to be comprehended ſo as he has writ it by every vulgar capacity, I have thought it convenient to explain it here, that thoſe Perſons who have the leaſt inſight in <hi>Chymie,</hi> might underſtand it's moſt exquiſite and elaborated Preparations.</p>
+            </div>
+            <div type="part">
+               <head>The Receit is thus.</head>
+               <p>Take of the ſtrongeſt and beſt Claret-wine one Hogs-head, out of which you wuſt extract the ſpirit after the common manner, rectifying it to a perfect purity, let the reſt of the liquor be diſtilled by it ſelf, ſo draw of the Phlegm by the vaporous or aſhee heat, until it remains of the colour of Pitch, and in conſiſtence of a thick ſyrup, at the bottom of the Veſſel. This black ſubſtance diſtribute into ſeveral Glaſſe Bodies, and pour over it he Phlegm, till it overtops the Black ſubſtance, the hight of four or five fingers breadth. Set them upon warm aſhes and in few days the Phlegm will, be tinged with a red colour, by attracting to it ſelf the combuſtible Sulphur from the impure faeces of the wine. Let the tinged Phlegm be ſe<g ref="char:EOLhyphen"/>parated by inclination, and freſh Poured upon the matter, repeating this
+<pb n="3" facs="tcp:59410:4"/> labour till the feces yeild no more Tincture, and that what remains in the bottom be white and Chryſtalline. Set this Chryſtalline ſubſtance in ſeve<g ref="char:EOLhyphen"/>ral Matraſſes with long necks, and pour over it the rectifyed ſpirit of Wine till it overſwims it by three fingers breadth; apply to theſe Matraſſes fit heads and Receivers, well joined with a proper Lute for the purpoſe, and ſet them on warm Aſhes, that the matter may diſtil, Cohobating diverſe times that which is diſtilled. All being cold, let it be poured out by Incli<g ref="char:EOLhyphen"/>nation, without raiſing the ſediment, then pour upon the Feces more of the ſpirit, and thus reiterate ſo often, that the Feces which through their pro<g ref="char:EOLhyphen"/>per nature <hi>Calcine</hi> themſelves, begin to grow black, and ſmoak when layd upon a red-hot plate of Iron; which is a ſure ſign that the firſt <hi>Philoſophi<g ref="char:EOLhyphen"/>cal Calcination</hi> is accompliſhed, &amp; the Spirit already fully animated with that acid Balſum &amp; Ferment of Nature, that was contained in theſe <hi>Faeces</hi> which were reduced into <hi>Chryſtals.</hi> Joine all theſe animated Spirits together, and preſerve them in ſome cloſe ſtopp'd Veſſel, for fear of Evaporation.</p>
+               <p>Set the remaining <hi>Faeces</hi> in ſmall Matraſſes with long necks, which ſeal up Hermetically, and ſet in ſand, in an <hi>Athanor</hi> Furnace, ſo that flame may be given round the Veſſel, continue the fire five or ſix days, till the Earth be throughly calcined, fixed, and changed as white as ſnow. The which to render more volatile again, divide and diſtribute into ſeveral <hi>Cucurbit<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> pouring upon them the fourth part of the aforementioned Spirit of Wine, apply their heads and Receivers well joined and Luted, and ſet all in a wet <hi>Bath,</hi> luke-warm during one days ſpace, from whence tranſport them after<g ref="char:EOLhyphen"/>wards on aſhes, and with a competent heat draw off the Liquor, which from very fiery and ſharp that it was, will come off as inſipid as ſpring<g ref="char:EOLhyphen"/>water; by reaſon that the abovementioned Spirit hath then depoſited it's <hi>Balſamick</hi> Salt in that of the Lime, which Salt did aſcend in the former ope<g ref="char:EOLhyphen"/>rations with the Spirit. <hi>Nam Natura Naturam amat, eamque ſequitur in ſua Natura.</hi>
+               </p>
+               <p>Pour upon the <hi>Calx</hi> or Lime the ſame proportion of other animated Spi<g ref="char:EOLhyphen"/>rits as before, obſerving the ſame order in the Diſtillation, till you find by your taſt that in the diſtillation, that Spirit comes over as ſtrong, as it was poured on, which will be a ſign that the fixed Salt hath retained as much as needs, or as it can contain of the Volatile Salt. Obſerve that if you have weighed your Maters at firſt; you will find them trebly augmented in weight, which ought to be diligently noted, in order to the <hi>Sublimation</hi> and laſt operation, that the Volatile may exceed and overcome the fix.</p>
+               <p>Set all your Matter in diverſe little bodies of the ſhape of Sublimatories, adding their Heads and Receivers to receive the ſulphurious ſpirituous hu<g ref="char:EOLhyphen"/>midity, diſtil this in Aſhes with a gentle fire, during a whole day, then augment the fire by degrees, till at laſt (towards the end) the fire be in a degree of Sublimation, which continue ſo, during 18 or 20 hours, and till that the Veſſels appear no longer filled with Whitiſh Fumes; then will you find the Matter ſublimed ſticking on the ſides of the Glaſſes Pure, Clear, and Tranſparent, like unto Pearls or Talk.</p>
+               <p>Take this Sublimed Matter, and make it into Pouder in a Glaſs or marble Mortar, put it into a <hi>Matraſs,</hi> and pour over it of the Sulphurious Spirit, moiſtning it little by little, and concocting them 3 or 4 days in an <hi>Athanor</hi> Furnace, with a pretty ſtrong fire, and thus you will have the <hi>Menſtruum.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:59410:4"/>
+               <head>Concerning the <hi>Radical</hi> diſſo<g ref="char:EOLhyphen"/>lution of <hi>Gold.</hi>
+               </head>
+               <p>When I ſhall have told you that the Preparation of the <hi>Diſſolvant</hi> for Gold, was given me by an Adeptus under the ſeal of ſecrecy, and confir<g ref="char:EOLhyphen"/>med with an Evangelical Oath, I hope there is none that bears the name of a Chriſtian, but will diſpence with me for making publique, what I ought to keep for ever locked up in the Cabinet of my breaſt; yet preſu<g ref="char:EOLhyphen"/>ming upon that limited Liberty which was then allowed me, and that o<g ref="char:EOLhyphen"/>thers make uſe of when they treat of ſuch Secrets. I will here ſet down in an Allegorical ſenſe (though intelligible enough to thoſe that are Maſt<g ref="char:EOLhyphen"/>ers) the whole proceſs as follows.</p>
+               <p>Rep. <hi>Glaciei ſolubilis Gemmarum q. ſ. imponatur Crucibulo ſuper ignem per</hi> 6 <hi>vel</hi> 7 <hi>horat, dein remoto igne, Crucibulo fracto, recipe tuam materiam calcina<g ref="char:EOLhyphen"/>tam et vitro retorto inde, ſuperfundendo ſpermatis Fermenti <g ref="char:V">Ʋ</g>niverſalis dimidi<g ref="char:EOLhyphen"/>am partem, &amp; cum Recipiente capaci, in quâ ſit circiter quarta pars aquae com<g ref="char:EOLhyphen"/>munis, firmiter lutetur, deinde augendo ignem per gradus diſtilletur ad materiae ſiccitatem. Tunc frange retortam &amp; calcinatum tuum inde retorto Terreae recipi<g ref="char:EOLhyphen"/>ente adapta, detur<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ignis vehementiſſimus apertus, donec ad perfectam diſtilletur ſiccitatem, quod ſepties rectificatum ſervatur ad uſus; Poſtea R. Speculi Philo<g ref="char:EOLhyphen"/>ſophici, cum ſudore Achillis, ſanguine Veneris, et Adami pituita Philoſophicè per Vulcanum impregnati partes duas. Ignis terrae partem unam, Purifica in Barathro ad perfectiſſimum ſplendorem; deinde ſumito de iſtâ purificatâ materiâ et de a<g ref="char:EOLhyphen"/>qua non madefaciente manus ad partes aequales. Ingrediantur apertum Ignis Balneum per aliquot horas, quando ſatis ſudaverint, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bducantur cum tegmine, ne à frigore intercipiantur, quieſtant iſto madore per horas quatuor, mox quando len<g ref="char:EOLhyphen"/>tè refrixerint, excipiantur, ex Balneo ſicco, &amp; cum praedicto liquore, ſubtepido, in Balneo liquido foveantur, &amp; maneant in humectatione iſta per ſemidiem, de<g ref="char:EOLhyphen"/>inde parato lecto, clauſè tecto, Cogas ex Balneo, in gremium Quietis.</hi>
+               </p>
+               <p>Thus have I (though obſcurely) yet faithfully ſet down this great <hi>Men<g ref="char:EOLhyphen"/>ſtruum,</hi> which if any Son of Art underſtands, let him enjoy it with thanks, and in a Perpetual ſilence.</p>
+               <p>Take of this <hi>Diſſolvant</hi> (which the <hi>Philoſophers</hi> call their <hi>Mercurius Philoſophorum</hi>) 9 parts, add to them of Laminated Gold, cemented with <hi>Antimony</hi> one part. Leave them together in a Matraſs without heat, and in 24 hours, the Gold will be diſſolved. Cloſe the glaſs Hermetically, (or adding a blind head to it) ſet it to digeſt and Circulate in a gentle lamp heat during a Philoſophical month. Then having Poured off the Tincture into a ſmall glaſs retort, draw off the <hi>Menſtruum,</hi> till the ſaffron of the Gold remain almoſt dry. Pour upon it of the <hi>Vegetable Menſtruum</hi> to the hight of three fingers breadth, having ſtopped the Glaſs and luted it ve<g ref="char:EOLhyphen"/>ry well, ſet them in digeſtion during 10 or 12 days, and it will be totally Impregnated and the <hi>Crocus</hi> of Gold wholly diſſolved in it, which is to be kept in a Glaſs well ſtopped for Uſe.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:59410:5" rendition="simple:additions"/>
+               <head>The Preparation of <hi>Vitriol</hi> and <hi>Pearls.</hi>
+               </head>
+               <p>Take of the Vitriols of <hi>Mars</hi> of <hi>Venus,</hi> of each a ſufficient quantity, and by reiterated diſſolutions and coagulations, purify them from all their Terreſtrial parts; then put them in a Glaſs retort with a quart of Pearls, and diſtil them, ſtill pouring what is diſtilled upon its faeces, till they have imbued and drank up all the humidity, and you will find in the retort an excellent Red Colcother joyned with the calcined Pearl, reduce all in pouder, and pour upon it of the accuated Vegetable Menſtruum, to the height of three fingers breadth, this mixture put into a Glaſs retort, di<g ref="char:EOLhyphen"/>ſtil it in a Naked Fire during three or four days, ſave all the Liquor by it ſelf, and extract with common water the diſſoluble Magiſter of the Pearles out of the red Faeces, which keep apart, then take the diſtilled liquor, and from it diſtil off the accuated <hi>Menſtruum,</hi> and there will re<g ref="char:EOLhyphen"/>main in the bottom of the Lembick a Balſamick Liquor as red as blood, to which add the Magiſter of the Pearls and the accuated <hi>Vegetable Men<g ref="char:EOLhyphen"/>ſtruum,</hi> and circulate altogether during 40. days, and you will find your Liquor as red as blood, ſweet, and without Faeces in the bottom.</p>
+            </div>
+            <div type="part">
+               <head>Of the Preparation of <hi>Antimony.</hi>
+               </head>
+               <p>
+                  <hi>Baſilicus Valentinus</hi> in his <hi>Currus Triumphalis Antimonii</hi> does teach how to make an excellent Tincture of <hi>Antimony,</hi> of which he ſays; none but thoſe that have tryed it can beleive it's wonderful Vertues. Yet in my opinion that which is ſet down by <hi>Zwelfer</hi> in his <hi>Apendix ad Animadverſionem pag.</hi> 72, is to be prefer'd to this in reſpect of it's moſt excellent <hi>Diſſolvant,</hi> which for that very reaſon I have made choice of, and this it is.</p>
+               <p>Take of the beſt pulveriz'd, Vertdegris q.ſ. which put into a Glaſs Lim<g ref="char:EOLhyphen"/>beck, over which pour diſtilled Vinegar the hight of three fingers breadth, then after a competent time for digeſtion, when the Vinegar is well ſatu<g ref="char:EOLhyphen"/>rated with the Tincture, pour it off by Inclination, and pour upon the Vertdegris ſome other diſtilled Vinegar, digeſt it as before, and then pour of the Tinged Vinegar as before, repeating this work till the laſt Vinegar poured upon the Vertdegris will attract no more Tincture, and that the ſubſtance of the Vertdegris be almoſt totally diſſolved. Let all theſe fil<g ref="char:EOLhyphen"/>trated diſſolutions be put together in a Limbeck or Copper pan and eva<g ref="char:EOLhyphen"/>porated with a gentle fire, till there appears a film on the ſuperficies of the liquor, then ſet it in a cold place to Chryſtalize, part the Chryſtals from the liquor, and dry them with a gentle heat, exhalate again the re<g ref="char:EOLhyphen"/>maining liquor a little, and gather the Chryſtals as before, and thus con<g ref="char:EOLhyphen"/>tinue to operate, till it be almoſt all converted into Chryſtals.</p>
+               <p>Theſe Chryſtals being afterwards Put into a Limbeck, pour upon them of good rectifyed ſpirit of Wine, a ſufficient quantity to overflow the matter the hight of three fingers breadth, diſtil it off again, and this repeat
+<pb n="6" facs="tcp:59410:5"/> twice or thrice for their better Impregnation and volatilization. Theſe Chryſtals being pulveriz'd, put into a Glaſs retort, luted, to which fit a Receiver, and diſtil it by degrees, in an open but gentle fire, until all the ſpirit be drawn off, which is to be very well rectifyed, by an Alimbeck in a ſand Furnace.</p>
+               <p>This <hi>Menſtruum</hi> being Perfected thus, take of Glaſs of <hi>Antimony</hi> prepa<g ref="char:EOLhyphen"/>red by it ſelf, ſo much as you pleaſe, make it into a very fine Pouder, and pour upon it, to the height of three fingers breadth of this <hi>Menſtruum,</hi> ſet it in digeſtion in a gentle heat without any agitation, until the Spirit be Tinged with a yellow or reddiſh colour, pour this off by Inclination, and pour on ſome new, this repeat ſo often, as you find the Spirit Tinged af<g ref="char:EOLhyphen"/>ter ſome time of digeſtion, (which will be after the ſecond or third time) Theſe tinged Spirits muſt be put in a Limbeck and drawn off not to a per<g ref="char:EOLhyphen"/>fect drineſs, but that there be ſome ſmall proportion of liquor remaining behind; upon which pour of the actuated <hi>Vegetable Merſtruum</hi> q.ſ. which will be inſtantly imbued with a deep red colour, which muſt be ſeparated by filtration from the groſs and Terreſtrious yellowneſs. Then draw off again part of the Spirit, or Tinged <hi>Menſtruum,</hi> and the reſt will remain of a moſt excellent and bright red colour, which Keep for Uſe.</p>
+            </div>
+            <div type="part">
+               <head>The Preparation of <hi>Vip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs.</hi>
+               </head>
+               <p>Take <hi>Vipers</hi> No. xx. of the <hi>Actuated Vegetable Menſtruum</hi> llvſs. Put thoſe <hi>Vipers</hi> living and whole in the <hi>Menſtruum</hi> in a <hi>Matraſs</hi> with a long neck, to wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch you muſt fit a head and receiver, and there let them remain till they be ſuffocated, and after a due digeſtion draw off half the quantity of the <hi>Menſtruum</hi> in B. M. the other half pour off by decantation, then pour over them the remainder of the diſtilled <hi>Menſtruum,</hi> &amp; after digeſtion, diſtil again half of it, and the remaining part Pour off as before, which muſt be very hard Preſs'd from the <hi>Vipers,</hi> and joined with the firſt Tinctured <hi>Menſtruum,</hi> then filtrate them through Paper, and keep them cloſe ſtop<g ref="char:EOLhyphen"/>ped.</p>
+               <p>Take thoſe <hi>Vipers</hi> very well dried, ſo that they may be eaſily crumbled into a groſs pouder with the hands, ſet them in a glaſs retort, to which fit and lute a large Receiver, diſtil them in an open fire obſerving the degrees of heat, till all that is in the retort be driven over through the violence of a Flame fire. The diſtillation ended, the Volatil Salt will be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ound partly diſſolved in the Water contained in the receiver, and Partly adherent round the ſides of the receiver, in various forms which is to be waſhed off with the ſaid water, then ſeparate it from it's fatid Oyl through a filter of paper. This Volatile Salt is to be ſeparated afterwards from it's ſtinking and better water by a gentle Sublimation in a long-neck'd Glaſs, with it's Head and Receiver, ſo that the humidity mount not with the Salt.</p>
+               <p>Join this Volatile Salt to the forementioned Eſſence of <hi>Vipers,</hi> which ſet to digeſt in a glaſs well ſtopped, during two or three days, and ſo you'l have the <hi>Preparation</hi> of <hi>Vipers.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:59410:6"/>
+               <head>The Preparation of <hi>Coral.</hi>
+               </head>
+               <p>Take of red <hi>Coral</hi> ſo much as you Pleaſe, make it into very fine Pouder upon a Porphiry, and having put it in a Matraſs with a long neck, pour over it to the height of three fingers breadth of the ſpirit of <hi>Venus</hi> deſcri<g ref="char:EOLhyphen"/>bed in the <hi>Preparation</hi> of <hi>Antimony,</hi> ſet it to diſgeſt till it is very well im<g ref="char:EOLhyphen"/>pregnated, with the Tincture of the <hi>Coral.</hi> Then pour it off gently, and pour on ſome freſh Spirit, this repeat till the <hi>Coral</hi> will afford no more Tincture, then take all the Tinged Spirit, and diſtil it off almoſt to dri<g ref="char:EOLhyphen"/>neſs, then pour over the remaining Tincture, as much of the actuated <hi>Menſtruum,</hi> as will be requiſite to take up the Tincture, which keep for Uſe cloſe ſtopped.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Preparation of the</hi> Sarſa, China, Saffron, Roſemary <hi>and</hi> Lavender Flowers.</head>
+               <p>This Preparation is ſo common and eaſy that few words will ſerve to demonſtrate it.</p>
+               <p>Take the <hi>Sarſa</hi> and <hi>China,</hi> and after the uſual manner ſlit them and ſlice them in to very thin pieces, but leave the flowers whole, put all into a Matraſs with a long neck, pour over them the height of three fingers breadth of the <hi>Vegetable Accuated Menſtruum.</hi> Stop well the Glaſs, ſet it to digeſt in a gentle heat, and when the <hi>Menſtruum</hi> is throughly Tinged, pour it off by Decantation, pour new <hi>Menſtruum</hi> upon the Materials, di<g ref="char:EOLhyphen"/>geſt it as before, and when well Tinged, Decant as before, and ſo you will have the true <hi>Preparation</hi> of the <hi>Roots</hi> and <hi>Flowers.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>The Preparation of the <hi>Gumm Guajacum.</hi>
+               </head>
+               <p>Though this <hi>Gumm</hi> ſeems ſo pure and clear from all droſs that it re<g ref="char:EOLhyphen"/>quires none other purification, yet in the Preparation of it, there are found ſuch Terreſtrial parts, as require a ſeparation from the Tincture af<g ref="char:EOLhyphen"/>ter this manner.</p>
+               <p>Take of that <hi>Gumm</hi> q. ſ. pouder it very fine, and put it into a Matraſs with a long neck, pour upon it to the hight of three fingers breadth of the <hi>Accuated Vegetable Menſtruum,</hi> Cloſe the Veſſel, ſet it to digeſt in a gentle heat a day or two, then gently pour off the Tinged <hi>Menſtruum;</hi> in which all the Refinous and Balſamick part of the <hi>Gumm</hi> is diſſolved, which keep for Uſe cloſe ſtopped.</p>
+            </div>
+            <div type="part">
+               <head>The Preparaion of <hi>Myrrh.</hi>
+               </head>
+               <p>Is after the ſame manner, as of the <hi>Gumm Guajacum,</hi> therefore I refer you to that.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:59410:6"/>
+               <head>The Compoſition of the <hi>Balſum.</hi>
+               </head>
+               <p>The Ingredients being all duly and rightly prepared as has been ſaid, every one according to what their Nature and Quality did require. It is time to come to the <hi>Comp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſition,</hi> conſiſting in the true proportioning of their reſpective Doſes, and the Mixture of the ſeveral Preparations, which take as follows.</p>
+               <p>Take of the Tincture of <hi>Gumm Guajacum</hi> llij, of the Tincture of <hi>Myrrh</hi> llſs; of the Tincture of the Roots and Flowers, the ſame as of <hi>Myrrh,</hi> of the Eſſence of <hi>Vipers</hi> ℥vi, of the Tincture of <hi>Coral</hi> ℥iiij, of the Tincture of <hi>Antimony</hi> ℥iij, of the ſweet Red Oyle of <hi>Vitriol</hi> impregnated with the diſ<g ref="char:EOLhyphen"/>ſoluble Magiſtery of Pearls, as much as of the Tincture of <hi>Antimony,</hi> and of the Tincture of <hi>Gold</hi> ℥ij.</p>
+               <p>Pour theſe into a capacious Matraſs with a long neck, add to it a blind head, and ſet it in digeſtion in a gentle heat, during two or three days.</p>
+               <p>Here is the Compoſition of the Excellent <hi>Balſum</hi> of <hi>Life</hi> proper for a general uſe, which will keep hundreds of years, fit to receive any Medi<g ref="char:EOLhyphen"/>cinal addition, provided it be firſt prepared, according as it's Nature and Quality ſhall require and diſſolv'd in our <hi>Menſtruum,</hi> For none other being ſo purely ſpiritualized as this, thoſe wateriſh particles which others would introduce into theſe other pure Tinctures, would cauſe them im<g ref="char:EOLhyphen"/>mediately to precipitate to the bottom in a milkie white ſubſtance, to the great detriment of the Accidental, and ſome Prejudice to the Eſſential form of this <hi>Specifick Balſamick Liquor.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Reaſons for the Election of the <hi>Ingredients</hi> which conſti<g ref="char:EOLhyphen"/>tute this <hi>Balſum;</hi> of their Natures, Properties, and Virtues. Firſt concerning the <hi>Menſtruum.</hi>
+               </head>
+               <p>Amongſt the <hi>Chymiſts</hi> the word <hi>Menſtruum</hi> is given to any Liquor, ei<g ref="char:EOLhyphen"/>ther Natural or Artificial, Simple or Compound, which is uſed for the diſſolution of any Mixt; and in that reſpect common Water may be ſo termed, But this word is reſtrained to ſuch Liquors, as are of power to diſ<g ref="char:EOLhyphen"/>unite, open, and diſſolve, the <hi>Mucilaginous, Reſinous Saline, and Balſamick</hi> parts of whatſoever lyes hid in Natural Productions, as alſo to extract and retain their reſpective Tinctures.</p>
+               <p>There are variety of theſe <hi>Menſtruums,</hi> according to the diverſe qua<g ref="char:EOLhyphen"/>lities of matters to be diſſolved, and the Inventions of Ingenious and la<g ref="char:EOLhyphen"/>borious Artiſts. There being but few Maſters in this Scientifick Art, but have ſome peculiarly due to their own fortunate Stars, and Induſtry.</p>
+               <p>Of theſe <hi>Menſtruums</hi> ſome are made of the Juices of fruits, as of Le<g ref="char:EOLhyphen"/>mons, Pomgranats, Barberies, and the like; but the chiefeſt amongſt them are ſuch as are prepared of the Juice of the Grape, namely Spirit of Wine and Vinegar. Others are extracted of ſome parts and excre<g ref="char:EOLhyphen"/>ments
+<pb n="9" facs="tcp:59410:7"/> of Animals, as out of Bloud, Urine, the faecal Matter, and the like. Others are prepared from <hi>Minerals</hi> and <hi>Metals,</hi> as out of <hi>Vitriol, Common Salt, Nitre, Antimony, Mercury, Venus, Saturne,</hi> and the like. To theſe <hi>Men<g ref="char:EOLhyphen"/>ſtruums</hi> I may add by themſelves ſuch as are extracted out of Hony, May-Dew, they being kind of <hi>Meteors</hi> not to be properly ranged under a<g ref="char:EOLhyphen"/>ny of the forementioned Claſſes.</p>
+               <p>By a ſympathetick influence thoſe which are extracted from <hi>Vegetables,</hi> are moſt proper for the extraction of <hi>Vegetables,</hi> and ſo it is with thoſe extracted from <hi>Animals, Minerals,</hi> and <hi>Metals:</hi> Yet this rule is not ſo ab<g ref="char:EOLhyphen"/>ſolute, but that ſome of theſe <hi>Menſtruums</hi> are uſed promiſcuouſly one for another, but that which is moſt general is the Spirit of Wine.</p>
+               <p>This Spirit is call'd the <hi>Incorruptible Eſſence,</hi> the <hi>Water</hi> of <hi>Life,</hi> the <hi>Key</hi> of the <hi>Philoſophers,</hi> the <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Liquor</hi> or <hi>Balſum,</hi> the <hi>Philoſophers Sulphur</hi> and <hi>Mercury</hi> of the <hi>Vegetables,</hi> the <hi>Pearly Matter,</hi> and the Author of this <hi>Menſtruum</hi> has given it the name of <hi>Accuated Menſtruum,</hi> or <hi>Heaven</hi> of the <hi>Vegetables,</hi> with which he was us'd to extract the true Tincture of Gold. And by the <hi>Philoſophers</hi> it was termed that Fire of Nature, as much con<g ref="char:EOLhyphen"/>cealed as Celebrated amongſt them, who unanimouſly ſay, <hi>Ignis &amp; Azot tibi ſufficiunt.</hi> Theſe and diverſe other ſuch Denominations too tedious to relate, are ſufficient to declare, that this Spirit is the fitteſt Liquor of all thoſe which are either Natural or Artificial that is capable of extracting the Vertues of whatſoever is infuſed and digeſted in it, without the loſs of its ſeminal Faculties, and leaving behind any reliques of their Middle Lives Vertue. Whoſoever is acquainted with this Spirit will acknowledge it to have a moſt piercing Vertue, yet not of ſo hot a Nature as is imagined by the Vulgar, ſince it reſolves the hotteſt and hardeſt Tumours, allays the pains of burning, and takes away any inflammations. It's Incorruptible Nature renders it in great eſteem, both becauſe it preſerves it ſelf, and all other Beings Animated or Inanimated.</p>
+               <p>This Spirit of Wine is Simple or Compound, I call that Simple, which is extracted by bare Diſtillation, without any further addition. And by the Compound, I mean that which is Eſſencified and impregnated with its Eſſential Salt, and amongſt all of that kind is that which I have choſen for the preparation of thoſe Matters, which compound this <hi>Balſum</hi> of <hi>Life.</hi> Namely the Accuated Vegetable Heaven of <hi>Raymundus Lullius</hi> heretofore deſcribed.</p>
+               <p>The reaſons why I have preferr'd this <hi>Menſtruum</hi> before all others, to be the Vehicle for communicating the Vertues of this <hi>Balſum</hi> into hu<g ref="char:EOLhyphen"/>mane bodies, are, becauſe it will extract the Tincture from all things by deveſting them of their Accidental Forms, and yet preſerving their ſub<g ref="char:EOLhyphen"/>ſtantial ones, which ſpeaks it the moſt proper Liquor of all ſuch as are capable of extracting the Vertues of thoſe Mixts which conſtitute this Compound. Beſides this its intrinſecal qualities and Vertues have invi<g ref="char:EOLhyphen"/>ted me to this Election; for it is not only of power to convey and com<g ref="char:EOLhyphen"/>municate the Vertues of all Mixts annexed to it, but through its own pe<g ref="char:EOLhyphen"/>netrating <hi>Balſamick</hi> Eſſence, does open and diſſolve all obſtructions, drives forth all Heterogeneal particles, cleanſeth, healeth, and ſtrenghtneth the inflamed, and debilitated internal and external parts, and corroborates the whole body; and thus <hi>Natura corroborata eſt omnium morborum Medi<g ref="char:EOLhyphen"/>catrix.</hi>
+               </p>
+               <pb n="10" facs="tcp:59410:7"/>
+               <p>Thus much concerning the Vertues, qualities, and choice of this <hi>Men<g ref="char:EOLhyphen"/>ſtruum,</hi> before all others, though eaſier to be made, and now a few words concerning</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Gold</hi> and it's <hi>Diſſolvant.</hi>
+               </head>
+               <p>Gold is the moſt perfect <hi>Child</hi> of the Earth, the <hi>Ne plus ultrà</hi> of the <hi>Mineral Power.</hi> It is a yellow, moſt ſolid and compact Metal, compoun<g ref="char:EOLhyphen"/>ded of ſuch principals as are fix, permanent, and digeſted in a moſt So<g ref="char:EOLhyphen"/>vereign degree, as it's incorruptibility does manifeſt. It's call'd by ſome the Sun, not only by reaſon of it's great Correſpondency and harmonious Relation with the <hi>Celeſtial Sun</hi> of the great World, but for it's Sympa<g ref="char:EOLhyphen"/>thy and Affinity alſo, with the Sun of the little World the <hi>Heart</hi> of <hi>Man.</hi> Its fixidity, purity, and moſt excellent Cordial Vertues, makes it wholly dedicated to the Heart, who is the Operator of all the Noble Functions of life. It is not only a moſt Sovereign Cordial, by reeſtabliſhing and augmenting the <hi>Radical Moiſture</hi> and <hi>Natural Heat,</hi> but it is alſo an excel<g ref="char:EOLhyphen"/>lent <hi>Purifier</hi> of the <hi>Bloud,</hi> diſperſing and driving forth by ſenſible and in<g ref="char:EOLhyphen"/>ſenſible Tranſpirations, that which is Heterogeneous and corrupted in the whole Body, which are the reſults of the diverſe alterations of the blood, tending to Corruption and Putrefaction, and Conſequently to the deſtruction of that ſubject, who it ought to Vivify and Nouriſh.</p>
+               <p>Notwithſtanding thoſe exquiſit intrinſecal qualities and virtues, it is the opinion of ſome, that Gold cannot preſerve nor renovate by reaſon of his compactedneſs which is ſuch as not to be ſo diſſolved, but that it may be reduced to a Metalline ſubſtance again, and that by conſequence never better Imployed or more of uſe than when it is deſolved in the devouring Menſtruum of an over gorged Kitchin, an overflowing Cel<g ref="char:EOLhyphen"/>ler, and of exorbitant and Gorgeous Apparel (all which be dayly found to be moſt radical diſſolvants.)</p>
+               <p>To which I ſhall only ſay that there are none never ſo meanly verſed in Chymie, but know that Gold can be ſo opened, through the operati<g ref="char:EOLhyphen"/>ons in that Art, as to be capable of producing ſome good effects upon our Bodies, although reducible again to its Matallick Body. This is ea<g ref="char:EOLhyphen"/>ſy to be demonſtrated, by the example of other metallick bodyes, which are reſolved into Salts or Vitriolls, as Silver, Copper, Tin, Lead, and Iron, all which may be reduced again into Metalls, which hinders not the dayly and ſucceſsful uſe of them, by learned and eminent Phyſiti<g ref="char:EOLhyphen"/>ans, who are invited thereunto by the dayly diſcoveries of thoſe admi<g ref="char:EOLhyphen"/>rable effects, which ſuch open Metals produce in Cronical diſeaſes, even upon the moſt obſtinate and deepeſt rooted, and complycated amongſt them, all theſe metallick vitriols having different taſts, various colours, as alſo ſome peculiar ſpecifick virtue, as appears by their various effects. If Gold being opened and prepared by the means of a powerful Men<g ref="char:EOLhyphen"/>ſtruum ſo as to be reduced into a Vitriolick Salt, having its peculiar Colour, Taſte, and ſpecifick virtues, is adminiſtred into our Bodies, why may I not conclude it to be of force and virtue to renovate and o<g ref="char:EOLhyphen"/>perate divers other wonderful effects, and conſequently not to be de<g ref="char:EOLhyphen"/>bared
+<pb n="11" facs="tcp:59410:8"/> from Phyſical uſe, for no other reaſon then meerly its reducibility into metal again, not but that I know, that if this Metal was once ſo o<g ref="char:EOLhyphen"/>pened and radically diſſolved as never to be reduced into Metal again by any Art, it would then be more efficacious, for Gold thus volatilized, and ſpiritualized, does acquire a more ample ſphear of activity and virtue, but this ought not to debar us from the uſe of its meaner preparations, eſpecially ſuch as have been known by a long experience to be effectual in their operations, for the prevention and cure of diſeaſes in humane Bodies.</p>
+               <p>But by reaſon that the more radically Gold is opened, the greater ef<g ref="char:EOLhyphen"/>fects it muſt conſequently operate, I have made choice of ſuch a Men<g ref="char:EOLhyphen"/>ſtruum, which through its ſimpathy, and great affinity with Gold, does ſo radically diſſolve it, that though it may be reduced in part, into a metal<g ref="char:EOLhyphen"/>lick ſubſtance, yet not without a ſenſible decay of its weight after, every diſſolution, which in ſucceſs of time by reiterated diſſolutions &amp; circula<g ref="char:EOLhyphen"/>tions, might ſo radically diſſolve the whole as never to be reduced again into Gold or any other metallick ſubſtance.</p>
+               <p>One property that this diſſolvant has, which in my opinion cannot be paraleld, is that, though it be ſo powerful upon Gold, diſſolving it with<g ref="char:EOLhyphen"/>out external heat, inward corroſion, freting, ebullition, or raiſing of any fumes, ſcum, and bubbles, (but juſt as wax would do in warm water) yet it will not ſo much as touch any other Metal, Mineral, Linnen, Woollen, or any other thing, being ſo far from corroding, that thoſe parts of my Cloths or skin that have been accidentally wetted and imbued, with this diſſolvant, have proved as ſound in the wareing as any other parts of my Apparel, and my hands not in the leaſt offended, which proves its operation upon Gold to proceed from an Analogical conſent of parts and by ſympathy, but after the diſſolution of the Gold in it, it tinges all things of a moſt glorious purpurine colour, which Evidently ſhews that the ſaid Menſtruum is ſufficiently ſaturated with the central ſulphur of the Gold, which yields that colour.</p>
+               <p>So ſoon as I ſhall have prepared this diſſolvant, which will take up ſix Weeks Labour, in which time I hope to have all the other operations required in this compoſition, I ſhall preſent to publick view this as de<g ref="char:EOLhyphen"/>lightful, as exquiſite diſſolution of Gold, to all ſuch as will favour me with their viſits at the Laboratory, to which they ſhall at all times be very welcom, eſpecially ſuch as are deſirous to communicate with me about ſome particuler additions to the Balſum, according to their Phy<g ref="char:EOLhyphen"/>ſitians orders, whom I adviſe all Perſons to conſult very well before they repair to me.</p>
+               <p>Gold thus prepared yields its Tincture in any Liquor, which Tincture of a moſt acerb &amp; auſtere taſt, does operate as variouſly as pleaſantly, for ſometimes it has been known to Purge by Stools, ſometimes (though very rare) by Vomits, frequently by Urines and Sweats, but moſt commonly by no viſible outward effects, but then its Virtues are ſenſibly felt, in augmenting the ſtrength of the Sick, reviving the Spirits, chearing the Heart, and by Corroborating of the Viſcera, and the whole Body. To ſpeak in few words, its innumerable Virtues, I ſhall conclude with <hi>Quer<g ref="char:EOLhyphen"/>cetans</hi>
+                  <pb n="12" facs="tcp:59410:8"/> own words, <hi>Ad innumerabiles morbos fere incredibilis videtur virtutis.</hi> Thus I conclude with the moſt noble of Metals, to ſpeak ſomething of the beſt of Minerals.</p>
+            </div>
+            <div type="part">
+               <head>Of Vitriol.</head>
+               <p>That there is an Univerſal Spirit, or Spirit of the World which God hath Eſtabliſhed for the continuance of the ſpecies, which Spirit gives Life to all beings, is a truth that is paſt diſputing, but what this ſpirit is, in what ſubſtance incorporated, and how communicated, is that which but few underſtand.</p>
+               <p>Yet moſt of the Eminents Phyloſophers ſay, that the external green and Azurine colours of Vitriol, and its inward acide declare it to be that ſubtle juice of the Earth, which is the ſole cauſe of that Univerſal fermentation which preceeds all natural Productions, even as leaven to Flower and Water. The ſulphur contained in the ſaid Vitriol being the Spirit and Ferment which opens and unites, gathereth and coagulates the divers vapours which are in the Earth, and according to their re<g ref="char:EOLhyphen"/>ſpective matrices, formes them into Vegetables, Minerals or Metallick Subſtances.</p>
+               <p>In Vitriol, <hi>Venus</hi> is moſt apparent, and therefore moſt Ingeniouſly Feigned by thoſe Poets that were Phyloſophers to be the Mother or Principle of all Natural Generations, and in my opinion, the Internal redneſs of the ſaid Vitriol doth clearly manifeſt that generative blood of Nature with which ſhe doth ferment her ſeeds, and of thoſe fermented ſeeds, produce ſuch Varietys of beings, which makes ſuch a ſympathy between thoſe three Natural Families.</p>
+               <p>This Vitriol that has an acide Spirit, a burning or corroſive oyle, has alſo a ſweet red tincture in it, that is ſo friendly to Nature as to commu<g ref="char:EOLhyphen"/>nicate to her all that ſhe wants both as to her preſervation and renova<g ref="char:EOLhyphen"/>tion, ſweetening all preternatural acides, purging its balſamick parts, from all outward adherences, and Vivifying of the ſuppreſſed Spirits, beſides it is generally known to be the greateſt opener and reſolver of obſtructions that is uſed in Phyſick.</p>
+               <p>This was the reaſon that I have made choice of this inward balſamick ſweetneſs of Vitriol, Impregnated with the diſſoluble Magiſters of Pearls to enter into this compoſition.</p>
+            </div>
+            <div type="part">
+               <head>Of the Pearls.</head>
+               <p>Pearls are the concretion of the pureſt part of that Mucilaginous Li<g ref="char:EOLhyphen"/>quour, that a certain ſhell Fiſh called Oyſter, draws from the Sea Water, which contains an Embrionated Salt, full of a Natural Balſome, and of a principle of Generation, which is communicated to it by means of the Air and Water, thoſe two great vehicles of the Univerſal ferment, this Gem is only found in thoſe Shells that are moſt Rugged, and that con<g ref="char:EOLhyphen"/>tain the Leaneſt and moſt languid Fiſh, which ſhews that in the pro<g ref="char:EOLhyphen"/>duction of this Jewel, it is deprived of that ſweet ſulphureous milky ſub<g ref="char:EOLhyphen"/>ſtance,
+<pb n="13" facs="tcp:59410:9"/> of which this object of Luxury and curioſity is perfected.</p>
+               <p>This concrete has ever been acknowledged both by ancient and modern Authors to be of a nature capable to free the Natural Balſum from all outward and inward inſultations, to reeſtabliſh the Languid ſtrength, to recreate and ſtimulate the Spirits, ſuppreſs Poyſons, the Plague, and all Putrid humours, by reaſon of the ſweetneſs of its ſulphur, which deads all the effects of theſe ſharp and ſaline ſeroſities, that prick and ir<g ref="char:EOLhyphen"/>retate the Membranous and Nervous parts, inflame the viſcera and prey upon the very ſpirits and Balſum of Life, whence are produced the Gout, Scurvy, Mange, Venereal diſeaſes, and the Leproſie, all which qualities have made me give place in this compoſition, for the ſoluble magiſter of Pearls.</p>
+            </div>
+            <div type="part">
+               <head>Antimony.</head>
+               <p>This mineral abounds in a noble mineral ſulphur, it pertakes alſo of a metallick undigeſtible mercury, and a ſmall proportion of ſalt, it is call'd by ſome, the Gray Woolf, the black Eagle, the Dragon, the Leprous Gold, and by many other denominations.</p>
+               <p>
+                  <hi>Baſilius Valentinus</hi> ſays that it is of an Hermaphrodite nature, fix and volatil, in temperament hot, cold, dry, and moiſt, that there may be had from it a Medicine for every diſeaſe, beſides a general Panacea, he ſays further that there is as great a variety in goodneſs amongſt the di<g ref="char:EOLhyphen"/>vers ſorts of Antimonys, as there is difference between the fleſh of ſome Fiſhes and four footed Beaſts, which though agreeing in name, are of various differences, but the beſt he concludes to be that which comes from <hi>Hungaria</hi> full of long bright and glittering ſtrikes, and here and there tinged with a Purple and Gold Colour.</p>
+               <p>This Mineral as it comes from the Mines, is crude and undigeſted, and imbued with ſome malignant qualities, but not to be rejected, ſince that by due preparations its impurities may be ſeperated from its pu<g ref="char:EOLhyphen"/>rer parts, its Homogenious principles from its Heterogenious adherences, and its Medicinal virtues, freed and purged from all venemous and offen<g ref="char:EOLhyphen"/>ſive qualities, therefore not to be deſpiſed, much leſs wholly rejected; for dayly experience teaches us, that Vipers, which are venemous in their own Nature, are notwithſtanding inſerted in the <hi>Theriaca An<g ref="char:EOLhyphen"/>dromachy</hi> not without great ſucceſs, and that the bare ſuffocation of them in Wine, or in its Spirit, produces a ſovereign Antidote againſt all Poyſons, nay, what's more, by this bare Emergency, they become a teſt, by which ſuch medicaments as are dayly uſed as Catharticks, are exa<g ref="char:EOLhyphen"/>mined, whether they be of a venemous nature.</p>
+               <p>It is not my intention hear to Impeach any particular Medicament, leaſt I ſhould add to the general adverſion againſt Phyſick, I have two much reſpect for it, and its learned Dogmatiſts, therefore only in gene<g ref="char:EOLhyphen"/>ral take this example, make choice of two perſons, as near as you can of one age, habit and complexion, give to the one an ordinary doſe of Viper Wine, to the other none, then adminiſter to each an ordinary doſe of a Cathartick Infuſion, and you will find, that the Perſon which
+<pb n="14" facs="tcp:59410:9"/> took the Viper wine, ſhall not be moved, and the other ſufficiently purged which clearly proves the Alexipharmicalo peration of the <hi>Vipers,</hi> upon the nox<g ref="char:EOLhyphen"/>ious qualities of the ſaid Catharticks: which with pricking Volatil Salt irri<g ref="char:EOLhyphen"/>tates the expultrice faculty, and ſo provokes dejection, it being a Maxim, that none but fix qualities can expel fix diſeaſes. Neither is it ſo much the driving forth by ſtools of the excrementitious peccant matter, which is ſo effectual as the Evacuations through the Emunctories by Sweats, Urines, and imperceptible perſpirations.</p>
+               <p>Now this Preparation, which I have choſen here, being the moſt fix of all the Preparations of <hi>Antimony,</hi> for that very reaſon I have made choice of it, having in twenty years experience found it to be moſt efficacious againſt the Leproſy, the inveterate Itch, the Scurvy, and all Venereal diſeaſes, as alſo in the Dropſy, and generally all obſtructions, it purifies the Maſs of blood, helps Melancholy, reſiſts Poyſons, opens Aſſhmaticks, heals Ulcerated lungs, cleanſes the womb, helps Generation, and Conception, and is indowed with a renewing quality. Thus much of <hi>Antimony.</hi> And now,</p>
+            </div>
+            <div type="part">
+               <head>Concerning Coral.</head>
+               <p>
+                  <hi>Coral</hi> is a ſtony Vegetation in the form of a Tree ſticking faſt unto rocks in the bottom of the Sea. There are chiefly two ſorts, the White, and the Red, but this laſt is the beſt. There is ſome of other colours alſo, to be ſeen in the Clo<g ref="char:EOLhyphen"/>ſets of curious Perſons, as Black, Yellow, Blew, and the like. As to the choice, the Male is the beſt, which is of a deep and clear Red, this Concrete, if well prepared, and opened, yeilds a Tincture, as red as blood; whoſe ef<g ref="char:EOLhyphen"/>fects &amp; vitutes are to purify &amp; renew the blood; it dries &amp; cools, ſtrength<g ref="char:EOLhyphen"/>ens the Ventricle, and the Liver, but chiefly the Heart. It is good againſt the Plague, Poyſons, and malignant Fevers, it recreates the ſpirits, ſtops all Fluxes, it is an excellent Anti-Epileptick, prevents Convulſions in Children, is ſovereign in the Palpitation of the Heart, Fainting fits, Melancholy, Dropſy, Gout all which it performs through that Solar Tincture, which is communi<g ref="char:EOLhyphen"/>cated to it from Gold, in a great meaſure, which gives it the true and deſerv<g ref="char:EOLhyphen"/>ing Title of Preſerver and Renewer.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Vipers.</head>
+               <p>The <hi>Viper</hi> is a Serpent, the moſt venemous of all Reptils, apt to be irritat<g ref="char:EOLhyphen"/>ed, and when ſo, it drives in the twinckling of an eye from the veſicle of the gall to the gumms, through an almoſt imperceptible veſſel, ſo ſpirituous and ſubtle a poyſon, which inſinuates and communicates it ſelf ſo ſuddainly to the ſpirits, and the natural heat, that it as ſubtlely ſtupifies the parts, as it has bit; which poyſon communicates it ſelf immediately to the heart, and from thence to the brain by the means of Circulation.</p>
+               <p>The remedies which this Animal affords, are no leſs ſurpriſing &amp; admirable, than its poyſon, for it doth not only combat its proper poyſon, but enervates, &amp; abſolutely overcomes the ſtrength &amp; power of all the poiſons that the three natural Families does produce; provided that theſe <hi>Vipers</hi> be well prepared, &amp; adminiſtred in time and order.</p>
+               <p>This long-liv'd Animal, of ſo great aſſiſtance, ſo abounding in a Balſamick Salt, doth not only renew thoſe that frequently make uſe of its preparations,
+<pb n="15" facs="tcp:59410:10"/> but renews it ſelf alſo, in order to which, towards the end of the year, when their food begins to fail them, they hide themſelves under ſtones, and in the Earth, where they remain languid till the beginning of the next Spring, when ſo ſoon as they have fed upon the balſamick blades and ſprouts of budding plants, refreſhed themſelves with the Aromatick Air, and cheriſhed themſelves in the Raies of the Life-giving Sun; they ſeek out rugged places to rub them<g ref="char:EOLhyphen"/>ſelves againſt, and ſtrip off their old skin, which they have no ſooner laid by, ſelves againſt, and ſtrip off their old skin, which they have no ſooner <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid by, but immediately poſſeſt with the ſence thereof, and of its acquired benefit, it crawls more nimbly, and declares by the quickneſs and livelineſs of its moti<g ref="char:EOLhyphen"/>on, &amp; the Oriental colours of its new garment, that it is really renewed, and that by conſequence, thoſe remedies which it does yeild, can produce the ſame effects in humane bodies alſo.</p>
+               <p>The Virtues of this Animal are to ſtrongly reſiſt all poyſons, they are good againſt Leproſy, all Venereal diſeaſes, Conſumptions, Hectick Feavers, but chiefly againſt the Scurvy, driving forth, through its Volatil Balſamick Salt, all the malignant <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eroſities, which infect the maſs of blood, the cauſe and fomenter of this popular diſeaſe, ſo raging at this very time amongſt us.</p>
+            </div>
+            <div type="part">
+               <head>Of the Roots of Sarſa, China, and of Saffron, Roſemary, and Lavender flowers.</head>
+               <p>Theſe two Indian Roots are ſo frequently uſed, &amp; well known to every vulgar eye, that I need not ſay much concerning them; I ſhall only in few words give you the reaſons, why I have choſen them to enter into this Compoſition. They abound both in a fix Balſamick Salt, &amp; in a <hi>Faecula,</hi> which is of a very drying, &amp; healing quality; they are both Diuretick and Diaphoretick, friendly to the Liver, good againſt the Dropſy, Palſey, Gout, Head-ache, Jaundice, Green<g ref="char:EOLhyphen"/>ſickneſs, the Scurvy, &amp; all Venereal diſeaſes; they heal, and dry up all inward Ulcers, which makes them to be dayly uſed in all diſeaſes which require exicca<g ref="char:EOLhyphen"/>tion.</p>
+               <p>
+                  <hi>Saffron</hi> is a flower which abounds in ſuch Virtues, as are Analogick with the reſt of thoſe Ingredients wh ch compoſe this noble <hi>Balſum;</hi> ſo that I ſhould have done it wrong, not to have inſerted it amongſt the reſt. It is a great Ano<g ref="char:EOLhyphen"/>dyne, a great Cleanſer of the womb, a Cheriſher of the Heart, a Diſopilator of the Liver and Spleen, a great Provoker of Child-birth, and of what ſhould im<g ref="char:EOLhyphen"/>mediately follow; it is eſteemed the moſt ſovereign Cordial of the Lungs, the actions of its Virtues being carried &amp; diſtributed unto the very laſt diſgeſtions through the Circulation of the blood, and by reſpiration. It is a little <hi>Panacea</hi> againſt the Plague, &amp; all other infections, &amp; malignant diſeaſes; a great Spe<g ref="char:EOLhyphen"/>cifick in the Jaundice, good againſt the Apoplex, Aſthmas, and fits of the Mo<g ref="char:EOLhyphen"/>ther: in a word, it abounds in a Balſamick Sulphur, which is manifeſted by its exquiſite odour, and in a Magnetick ſalt, which makes that af<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er it has been deſſicated, it attracts to it ſelf again from the ambient Air that Balſum, which affords it afreſh the ſame weight of body, the ſame vivacity of colours, and the ſame activity of odours, as it had at firſt, which is a thing worth obſervation.</p>
+               <p>The flower of <hi>Roſemary,</hi> which the <hi>Greeks</hi> call <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, by excellency does not come ſhort of the Saffron; for not the flower only, but the leaves of the plant alſo, are totally Balſamick, which renders it a Specifick againſt all the diſeaſes
+<pb n="16" facs="tcp:59410:10"/> of the head, and of the <hi>Genus nervoſum,</hi> they ſtrengthen the ſtomach, clear the Optick nerve, reſolve &amp; open all the obſtructions of the Liver, Spleen, Womb, Meſentery, Pancreas, <hi>&amp;c.</hi> They cleanſe, and ſtrengthen the Womb, help Con<g ref="char:EOLhyphen"/>ception, good againſt the Palſy, Apoplex, Convul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions, the yellow Jaundice, Greenſickneſs, and the white Effluviums.</p>
+               <p>The Flowers of <hi>Lavender</hi> are abſolutely devoted to the Brain, and <hi>Genus ner<g ref="char:EOLhyphen"/>voſum;</hi> Therefore excellent againſt Apoplex, Palſy, Trembling of Nerves, Cramps, Convulſions, Falling-ſickneſs, fits of the Mother, and concuſſions of the Brains. All theſe three Flowers are alſo excellent in all Contuſions, old Ulcers, Fiſtulas, outwardly applyed, eſpecially in ſpirit of wine.</p>
+            </div>
+            <div type="part">
+               <head>Of the Gumm Guajacum.</head>
+               <p>This <hi>Gumm</hi> which proceeds from a great Indian Tree is of ſo pure a Balſamick body, that it diſſolves wholly in ſpirit of wine, leaving little, or no faeces at all behind it. It is drying and healing, and taken in a large quantity purges down<g ref="char:EOLhyphen"/>wards; it's a great Sudorifick and Diuretick, and hath an Alexipharmical fa<g ref="char:EOLhyphen"/>culty: it is alſo cleanſing, diſſolving, and attenuating. All which qualities makes it a Specifick againſt Venereal diſeaſes, for by theſe forementioned quali<g ref="char:EOLhyphen"/>ties, it purifies the blood, dryes up, and drives forth all ſuperfluous moiſtures, heales all inward wounds, ulcers, and inflammations, ſtrengthens the Nerves, reſiſts putrefactions, augments the radical Balſum, and fortifies the ſtomach, and the Viſcera, againſt all putrid humors, ſuppreſſing all preternatural fer<g ref="char:EOLhyphen"/>ments, ſtrengthning the natural Acid. It cures the Dropſy, Aſſhma, or ſtuffing of the Lungs, Convulſion fits, all diſeaſes of the Bladder &amp; Reins, pains in the Joints, Gout, Flatulences, Crudities, &amp; all Cronical diſeaſes, eſpecially ſuch as have their being from cold and moiſt cauſes. It expels all groſs and viſcous humors, helps decay'd memory, Catarrhs, Deafneſs, Gripings, Colicks, Sterility, Cancers, or Ulcers of the Womb, and all cold humors.</p>
+               <p>It was in reſpect to this large Catalogue of its excellent Virtues, that I have elected it to be the baſis of this <hi>Balſamick</hi> remedy, it being a Balſum in it ſelf, pro<g ref="char:EOLhyphen"/>per againſt the <hi>Scurvy,</hi> and all venereal Deſeaſes, as likewiſe a preſerver and re<g ref="char:EOLhyphen"/>novator.</p>
+            </div>
+            <div type="part">
+               <head>Of Myrrhe.</head>
+               <p>Myrrh is of thoſe Balſamick Gums, which are uſed for the Inbalming of Dead Bodys, for their preſervation, from corruption, and Putrefaction, during many Ages, and ſeeing that through ſuch properties, this Gum has a peculiar Energy of preſervation, I thought I could not err by introducing it among the reſt of our Balſamick Ingredients, as a preſerver, as well as in reſpect to its other ex<g ref="char:EOLhyphen"/>cellent Virtues, for it is ſuch a reſiſter of all putrid and corrupt humours, and all accidents and diſeaſes that reſult from thence, that it is dayly uſed in all thoſe diſeaſes, that proceed from corruption and putrefaction, as in the <hi>Scurvy</hi> all Venereal diſeaſes, <hi>Poyſons, Putrid Feavers, Small Pox,</hi> and the like, it is a Cephalick Specifick, it drives all impurities from the Womb, the dead Child, alſo Facilitates Childbirth, &amp;, what ſhould Immediately follow it, and helps con<g ref="char:EOLhyphen"/>ception; Provokes Generation, ſtrengthens the Nerves, and is a ſovereign Antidote againſt the Plague.</p>
+               <p>It was not therefore without good reaſons that I have admited it to a con<g ref="char:EOLhyphen"/>ſiderable quantity in this Potable Balſum of Life.</p>
+            </div>
+            <div type="part">
+               <pb n="17" facs="tcp:59410:11"/>
+               <head>Some ſhort but neceſſary reflections upon the meanes of Preſervation and Renovation.</head>
+               <p>The reaſons why I have given the name of Balſum of Life to this excellent compoſition, are becauſe this Medicament is not a bare remedy for the cure of diſeaſes, but that alſo through its admirable Virtues, and qualities, it is a preſerver of Life, by the means of its Balſamick Principles, and great Vir<g ref="char:EOLhyphen"/>tues in Renovation, but becauſe there are divers Perſons that will not allow of Preſervers, and eſpecially of renewers; I will indeavour (in as few words as I can poſſible) to aſſert it. In order to this (that thoſe to whom I addreſs this diſcourſe may the better reliſh what I ſhall ſay hereafter; I would deſire them to reflect a little upon the dayly method in preſervation of dead bodys, ſuch as are wholly deprived of all inward aſſiſting qualitys, which are nevertheleſs ſo preſerved, through the aſſiſtance of ſome Medicaments as to be kept from Pu<g ref="char:EOLhyphen"/>trefaction for many after ages, and then I hope) they will be more inclined to approve, and allow, of a preſerving and prolonging power in ſuch Balſamick remedy, as may be adminiſtred to living bodys ſuch as are replen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhed with vital Spirits, and a Native Balſum of Life.</p>
+               <p>Now whereas our Nature (according to the opinion of the learned) cannot renew her ſelf without the aid and aſſiſtance of ſome Medicaments, by reaſon of her own inſufficiency, in the ſeperation &amp; extraction, of a pure &amp; clear Quinteſ<g ref="char:EOLhyphen"/>ſence from her ordinary and uſual food, whereby to renew her ſelf, we muſt conclude, that theſe aſſiſters, hold the place of Preſervers and Renovators.</p>
+               <p>For could nature make a pure extraction from the Aliments, ſuch a one as would be required for Renovation, it would be contented with very little proportion, whereas on the contrary ſhe does dayly crave a large quantity of the ſaid Aliments to ſupply her ſelf withal, whereby an abundance of impurities are diſtributed throughout the whole body, which puts her to a continual La<g ref="char:EOLhyphen"/>bour in the expelling of them again.</p>
+               <p>This its deficiency is dayly manifeſted by a continued viſſicitude of Lapſies into divers ſorts of diſtempers, but could ſhe extract any ſuch excellency from the aliments, life would then be a continued ſeries of health, without alteration.</p>
+               <p>Now ſince our Nature is deſtitute of ſuch qualities, &amp; too Weak &amp; deficient in her ſelf, to attain to ſuch a height of perfection, by her peculiar fire, &amp; the Inſtruments of her own Laboratory, Medicine muſt be invited to her Ayd, with refined Balſamick and Spirituous Medicaments, ſuch as Almighty God (who has promiſed length of Dayes) through his immenſe goodneſs to Mankind has ordained for preſervation and prolongation of Life, whence may be concluded a neceſſity of ſuch preſervatives in Nature, whereby our humane Nature, be<g ref="char:EOLhyphen"/>ing ſupported and exalted by a pure Quinteſſence the ſphear of her activity may be expatiated beyond its Natural extent, and limits, both for the preſer<g ref="char:EOLhyphen"/>vation and prolongation of Life.</p>
+               <p>In the Chymical anatomy of Blood, the fixt Salt is found in a leſs quantity than the Volatil, which fix ſalt it a powerful principle, whoſe Balſamick parts, are ſo abſolutely neceſſary to Life, that the durance thereof is to be meaſured by the ſtandard of its quantity and quality, ſo that according as any living being does abound more or leſs in this fix ſalt, it doth accordingly continue more or leſs, and requires leſs nutriment, this is moſt particularly evinced in
+<pb n="18" facs="tcp:59410:11" rendition="simple:additions"/> the Viper, an Animal of great abſtinence, and long Life, out of two ounces of whoſe Fleſh, has been extracted, a dram of Balſamick Salt.</p>
+               <p>What I have ſaid either concerning this Salt, or in reference to the preſer<g ref="char:EOLhyphen"/>vers and renovators, is without derogating in the leaſt from the <hi>Archeus</hi> that fervent Spirit and Prince of Life which reſides in us, who aſſiſted by its Balſum, and concurring with the reſults of the exterior reſtoratives, does Viſit, inlight<g ref="char:EOLhyphen"/>en, and comfort, all the Parts and render them partakers of the effects of its Virtues, but whereas this ſaid ſpirit does keep its chief reſidence in the more noble parts, where all its Virtues are treaſured up, and in which its faculties do ſhine with a greater luſtre, influence, and Authority, the preſervatives have likwiſe a greater power upon, and ſympathy with the noble than with the Inferiour and ſubjected parts,</p>
+               <p>Now whereas the Heart firſt agent of the Blood does extract a too ſmall proportion of this fix ſalt out of the Nutriment to ſufficiently ſupply all the parts withal, and that the Volatil ſalt does evaporate too faſt, and is too eaſily diſſipated, Whereby the ſaid parts remain in a continual craving. If that a Quinteſſence does add Energy, both in quantity and quality, to the Balſamick Salt, and ſuppreſs the Subtil Evaporation of the Voltatils of neceſſity preſerva<g ref="char:EOLhyphen"/>tive and prolongation muſt be adjudged as Infallibly as neceſſarily.</p>
+               <p>Theſe things rightly Conſidered I am of opinion, that to deny the exiſtency of preſervers and Renovators, amongſt plants, Animals and Minerals, is to oppoſe experience, maintained by reaſon, and confirmed by divers Antient and Modern Authentique Authors.</p>
+               <p>I ſhall no longer inſiſt upon this Theme leaſt it ſhould ſwell this little Piece beyond my firſt intention, the rather, ſince many have treated at large upon this Subject, but they have involv'd it (for the moſt part) in ſo many circumſtances, and accompanied it with ſuch a numerous variety of Nicitys which has elevated it beyond the reach of Vulgar capacities, and rendered it ſo intricate, and of ſo difficult an acquiſition, that but few will attempt the pur<g ref="char:EOLhyphen"/>chaſe, at ſuch a troubleſome rate, whilſt that man, (who naturally aſpires to glo<g ref="char:EOLhyphen"/>ry) wants but diligence to ſearch, with courage to execute, he being already endowed with reaſon to underſtand, that he is in poſſeſſion of that Inſtru<g ref="char:EOLhyphen"/>ment of Inſtruments, the hand to perform, and that kind and plentiful Nature is at hand to ſupply him withal requiſite materials, to operate upon, imploring only the ingenious Artiſts Care and Diligence.</p>
+            </div>
+            <div type="part">
+               <head>Of the Qualities and Virtue of this Balſum.</head>
+               <p>It is now time I ſhould give you an account of the ſingular properties and virtues of this Exquiſite Balſum of Life, which I ſhall do as ſuccinctly as its various Energies and natures will permit.</p>
+               <p>It diſſolves and opens all obſtructions, drives forth all impurities, heales inward bruiſes, ſores, wounds, or ulcers, ſuppreſſes all evil ferments, ſtrengthens all the viſcera, and the ſences, recreates the Spirits, reeſtabliſhes and augments the natural heat and radical humide, purefies the blood and natural Balſum, reſiſts all corruptions and putrefactions, cleanſes the reins, bladder, and womb, and drys the ſuperfluities thereof, helps conception, provokes the Terms, yet drys up the white effluviums. Accelerates Childbirth, and drives forth what ſhould follow, combats all Poyſons, corroborates the whole body, and ſtrengthens and renews nature.</p>
+               <pb n="20" facs="tcp:59410:12"/>
+               <p>Theſe Qualities and Virtues render it of power to reſiſt and ſuppreſs the violence, of ſome, &amp; to radically extirpate, &amp; abſolutely cure others of theſe following Diſeaſes.</p>
+               <list>
+                  <item>
+                     <hi>All Headaches.</hi>
+                  </item>
+                  <item>
+                     <hi>Diſineſs.</hi>
+                  </item>
+                  <item>
+                     <hi>Plagues.</hi>
+                  </item>
+                  <item>
+                     <hi>Leproſy.</hi>
+                  </item>
+                  <item>
+                     <hi>Scurvy</hi>
+                  </item>
+                  <item>
+                     <hi>All Venereal diſeaſes.</hi>
+                  </item>
+                  <item>
+                     <hi>Dropſy.</hi>
+                  </item>
+                  <item>
+                     <hi>Jaundice. Gout,</hi>
+                  </item>
+                  <item>
+                     <hi>Conſumption. All Agues.</hi>
+                  </item>
+                  <item>
+                     <hi>Convulſions Hectick Feavers.</hi>
+                  </item>
+                  <item>
+                     <hi>Apoplex. Melancholy.</hi>
+                  </item>
+                  <item>
+                     <hi>Falling ſickneſs. Wind.</hi>
+                  </item>
+                  <item>
+                     <hi>Palſy. Indigeſtions.</hi>
+                  </item>
+                  <item>
+                     <hi>Cramps.</hi>
+                  </item>
+                  <item>
+                     <hi>Green-ſickneſs.</hi>
+                  </item>
+                  <item>
+                     <hi>Gripings.</hi>
+                  </item>
+                  <item>
+                     <hi>Stone. and Gravil.</hi>
+                  </item>
+                  <item>
+                     <hi>Stuffings of the Lungs.</hi>
+                  </item>
+                  <item>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>lceration of the Lungs.</hi>
+                  </item>
+                  <item>
+                     <hi>Earenneſs.</hi>
+                  </item>
+                  <item>
+                     <hi>Colicks.</hi>
+                  </item>
+               </list>
+               <p>and to be uſed by all ſuch as are accuſtomed to take of thoſe Pills which they call the Drunkey Pills, or Pills of good fellowſhip.</p>
+               <p>This balſum is no leſs excellent outwardly applyed for the cure of Cancerous, cavernous, Venereal Vlcers, and Fiſtulas, applying it with Lint upon the Sore, or injecting of it in the cavities which it performes at the far<g ref="char:EOLhyphen"/>theſt at the third dreſſing, but ſomtimes at the very firſt application, applying over it only ſome ſort of deſcicative Plaiſter, and deſticates all wounds as are difficult to be cured through a flux of humours. It diſſipates and diſperſes all Venereal Nodes, and thoſe little ſcurfy and dry puſtulas or ſcabs on the head, face, or any other part of the body.</p>
+               <p>Allays the pains of the Gout and Cramps.</p>
+               <p>Heals all concuſſions, contuſions, Sprains, cold aches, contracted nerves, weakneſs of joynts and limbs, and the dead Palſy.</p>
+               <p>Diſcuſſes all hard cancerous &amp; ſcrophulous tumours, by chafing of it into the Part with a warm hand, and in the nape of the neck alſo; as alſo for gripings, colicks, and the worms chafing the belly and navel with it.</p>
+               <p>Thus much concerning the Virtues &amp; Qualities of this Balſum, now a word or two concerning the preparation of the body for its reception, as alſo ſome in<g ref="char:EOLhyphen"/>ſtructions in the adminiſtration of it, and of its doſes, and ſo conclude.</p>
+               <p>According to the intention and nature of the diſtemper, ſo muſt the body be prepared and diſpoſed for the reception of this ſpecifick in groſs plethorick bodys, there is required more circumſtantial preparations then others; in ſuch perſons care muſt be had not to ſtir up the humours too haſtily, nor to let them remain long in the body after once ſet in motion, leſt through a new fermentation, they ſhould create new diſeaſes, and produce putrid Feavers. But becauſe I have limited this Diſcourſe to two or three ſheets of Paper, and that I deſire all perſons to relye upon the conſultations and advices of their own experienced Phyſitians, though I had much to ſay upon this ſubject, I ſhall forbare it, and only in compaſſion to ſuch as live in Country Towns, far remote, from Phyſitians, or that cannot reach to the charge of a Phyſitians Fees, I ſhall ſet down ſome few Rules.</p>
+               <p>If the partys deſign is but to prevent or intercept the growth of ſome bud<g ref="char:EOLhyphen"/>ding diſtemper, or for preſervation &amp; renovation, &amp; that he hath lately taken ſome purging medicament, or that his ſtomach is clean of it ſelf, as alſo in time of infection againſt the Plague, or any other infectious diſeaſes, there is no uſe for preparatives.</p>
+               <p>But if the Perſon aimes at the rooting out, and curing of ſome diſtemper. Then it is neceſſary firſt to cleanſe the ſtomach, which according to its foul<g ref="char:EOLhyphen"/>neſs and repletion, is to be done either by vomits or purgations, and if re<g ref="char:EOLhyphen"/>quiſite
+<pb n="19" facs="tcp:59410:12"/> by both. The beſt of Vomits for this purpoſe is the <hi>Vinum Emeticum,</hi> and infuſion of <hi>Crocus Metallorum,</hi> or of glaſs of <hi>Antimony,</hi> as alſo the <hi>Antimonial Cup,</hi> in the <hi>Dropsy, Jaundice, Aſthmas, Melancholy, Green-Sickneſs,</hi> and the like. In the <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urvy, Gout,</hi> and all Venereal Diſeaſes, make uſe of <hi>Mercurius Vitae;</hi> well and rightly prepared, and in all Ce<g ref="char:EOLhyphen"/>phalick, or Diſeaſes of the Head and Nerves, as Convulſions, Palſies, Apoplex, and the like, make uſe of the Salt of <hi>white Vi<g ref="char:EOLhyphen"/>triol.</hi> But becauſe theſe vomits are not to be had every where, (eſpe<g ref="char:EOLhyphen"/>cially in the Country) ſo well and duly prepared as they ſhould be; I will take care to provide ſome in the Laboratory of my own preparing with all care and circumſpection. As concerning Purges, they being to be had from the Vegetables in every Druggiſt or Apothecary; Shop, and appropriated to the reſpective diſtempers, I ſhall not mention them. As concerning the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking of this <hi>Balſum</hi> in the cure of Venereal diſeaſes, the Scurvy, the Gout, Apoplex, Palſies of the head and tongue, Wind, Colicks, Gripings, Faintings, and Mother fits, and Wind in the ſtomach. Though this <hi>Balſum</hi> (through the penetrating quality of the <hi>Gumm Gua<g ref="char:EOLhyphen"/>jacum</hi>) is hot and biting in the mouth and throat; I would adviſe all ſuch as can bare with it, to take it without any mixture, and to drink preſent<g ref="char:EOLhyphen"/>ly after it a glaſs of white wine, or of ſome appropriated Liquor to the diſtemper, becauſe that in the mixing of it with any other Liquor before it is in the body, makes it immediately turn white, and ſtick, and preci<g ref="char:EOLhyphen"/>tate to the bottom of the veſſel that containes it, which alteration (though it does not deſtroy its virtues) yet retards for ſome time its active and nimble penetration, which is much required in the foremen<g ref="char:EOLhyphen"/>tioned diſeaſes.</p>
+               <p>But in all other caſes it is to be dropped according to its doſe in ſome liquors, appropriated to the diſtempers, and ſweetned with ſome ſyrup; or if you will make it a moſt pleaſant and delitious drink, take eight times the proporion of white wine, as is the doſe you are to take of the Balſum, and drop the ſaid proportion of Balſum into it, ſweeten it at your pleaſure with ſugar, or ſome pleaſant ſyrup, ſtir and mix all well together, and it will be like a ſpiced draught of new milk and ſu<g ref="char:EOLhyphen"/>gar in taſt, ſmell, and locks.</p>
+               <p>If there be any that had rather take this Balſum in extract or pills they muſt put the proportion of a doſe in a ſilver ſpoon (if it will contain it) but if the doſe be more than one ſpoonful, fill your ſpoon firſt, and ſet it at ſuch a diſtance, as it may not fire over a Candle, or kindled coals, and as it evaporates away, add more till you have the juſt doſe; which dry up to ſuch a conſiſtence, that being mixt with a little loave ſugar or ſu<g ref="char:EOLhyphen"/>gar Candy in pouder, may be made up into a Pill or Bolus.</p>
+               <p>Thoſe that are deſirous to keep by them their whole proportion of Balſum in an Extract, let them ſet it in a ſilver or earthen glaſed Cup or Pot in warm water, and let it ſtand there till it be evaporated to that thickneſs, but obſerve that in the keeping it grows hard in ſuceſs of time which may be ſoftened again by ſetting of it in warm water as before, with addition of very ſtrong ſpirit of wine.</p>
+               <p>As concerning its Doſes, I ſhall inſiſt upon them as given to a body of a ſtrong conſtitution, which all perſons are to alter in adding or dimi<g ref="char:EOLhyphen"/>niſhing
+<pb n="21" facs="tcp:59410:13"/> according to the ſtrength, ſex, habit, conſtitution, there being no danger of over doſing of it except too extravagantly.</p>
+               <p>In a body that is but ſlightly threatned with the begining of ſome di<g ref="char:EOLhyphen"/>ſtempers, this Balſum is to be taken in ſmall quantity from 10 to 20 or 30 drops once in two or three days in the morning faſting, and continu<g ref="char:EOLhyphen"/>ing ſo two hours after, keeping from cold, and uſing ſuch a moderate exerciſe as will keep you warm, ſtir up the ſpirit, yet cauſe no ſweat, nor evaporation, or loſs of them; continue this during 7 or 8 days or more if required. The ſame in Preſervation and Prolongation.</p>
+               <p>In time of Infection take every morning, or oftner in the day the ſame proportion after the ſame manner.</p>
+               <p>If you intend to remove ſome recent obſtructions in any part to help diſgeſtion, to expel wind and crudities from the ſtomach, and bowels, take it during 10 12, or more mornings in the ſame manner, to half a ſpoon<g ref="char:EOLhyphen"/>ful for doſe</p>
+               <p>If you would help barreneſs, fits of the Mother, or provoke the Terms, take it going to bed, at the full of the Moon, and preſently before or af<g ref="char:EOLhyphen"/>ter the time of the evacuations, during five or ſix days, which if need be, muſt be repeated every fall of the Moon, during five or ſix days, in the ſame quantity as before, adding in the Mother fits a little ſpirit of Caſtor.</p>
+               <p>In diſtempers of the Lungs, Conſumptions, Hectick, Feavers, <hi>&amp;c.</hi> it <hi>is to be taken in drops from</hi> 5 <hi>to</hi> 10 <hi>or five or</hi> 6 <hi>times a day.</hi>
+               </p>
+               <p>
+                  <hi>The ſame againſt all Headaches, Convulſions, Palſies, but in an Apoplex give to a ſpoonful, blow ſome up the Noſtrils, and pour ſome into the Ears alſo.</hi>
+               </p>
+               <p>
+                  <hi>But if you intend to cure a confirmed or a Chronical diſeaſe, take it in a lar<g ref="char:EOLhyphen"/>ger quantity, and continue the uſe of it till you find the diſtemper, moving the do<g ref="char:EOLhyphen"/>ſes one or two ſpoonfuls to three. The ſame in the Scurvy.</hi>
+               </p>
+               <p>
+                  <hi>In all Venereal diſeaſes, and the Gout, it is to be taken in the largeſt proporti<g ref="char:EOLhyphen"/>ons, and continue the taking during</hi> 14 <hi>days at the leaſt, but more if the obſtina<g ref="char:EOLhyphen"/>cy of the diſeaſe does require it, ſweating every day once or twice, if ſtrength will permit it, either in bed, in a ſweating chair, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ub, or hot-houſe. The doſe is one ounce or</hi> 4 <hi>ſpoonfuls, I obſerve that if the diſeaſe is not too much confirmed, one pint or pound performs the cure; but if it be very inveterate and complicate you must proceed further.</hi>
+               </p>
+               <p>
+                  <hi>This is what I was deſirous to ſay concerning the choice, perparations, Compo<g ref="char:EOLhyphen"/>ſition, qualities and virtues of the ingredients of this excellent Potable Balſum of life, as alſo of the Balſum it ſelf. In ſo wide a field I might have expatiated my ſelf at large, but my intention being only to inform the generality in few words of the nature, uſe and doſes of this Balſum, I ſhall forbare giving any further ac<g ref="char:EOLhyphen"/>compt of it, except it be deſired of me by ſome underſtanding civil perſons at the Laboratory, where at any ſeaſonable hours all ſuch perſons ſhall be very welcom unto their humble Servant</hi>
+               </p>
+               <closer>
+                  <signed>Belon.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59410:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
